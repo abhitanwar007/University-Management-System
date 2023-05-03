@@ -61,16 +61,44 @@ Download and Install it your system
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-- User login, use Card Number & PIN system 
-- Creating/open new account registration 
-- Funds transfer
-- View statements transaction 
-- User account details 
-- Change Password and Pin
+- User login, use Username and Password 
+- Register new student and teacher
+- Apply Leave on portal
+- View Leave 
+- Update Student marks and view result 
+- Update Teacher and Student details
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
 - Login page
+<img src="https://user-images.githubusercontent.com/76835879/235864583-3cfafd32-0b5d-4183-a151-3ef98c34925f.png" height=400>
+
+- Application Main page
+<img src="https://user-images.githubusercontent.com/76835879/235867690-8dbf0ad3-e3e3-42ab-96f2-31edea6250fa.png" height=400>
+
+- Register New Student
+<img src="https://user-images.githubusercontent.com/76835879/235865258-3bdbf454-73e8-435f-857c-290467af96b8.png" height=400>
+
+- Register New Teacher
+<img src="https://user-images.githubusercontent.com/76835879/235867704-d6c86ad8-c437-40c9-8f67-494dc0ef9f8e.png" height=400>
+
+- View Details of Student/Facalty
+<img src="https://user-images.githubusercontent.com/76835879/235865268-2e5abce4-24e4-40dc-9837-bf060be7ece5.png" height=400>
+
+- Apply Leave
+<img src="https://user-images.githubusercontent.com/76835879/235866371-429970cd-779d-4677-9c30-7fdffee84a2b.png" height=400>
+
+- View Leave
+<img src="https://user-images.githubusercontent.com/76835879/235866416-b76afa04-e754-42b1-a87a-1ed79228c6f1.png" height=400>
+
+- Student result upload
+<img src="https://user-images.githubusercontent.com/76835879/235866594-aaaa948c-fb25-4517-9710-9c32fa1bcc70.png" height=400>
+
+- Update Student details
+<img src="https://user-images.githubusercontent.com/76835879/235867679-f98116b1-bcb2-434c-b16e-e78c5dcf28c6.png" height=400>
+
+- Update Teacher Details
+<img src="https://user-images.githubusercontent.com/76835879/235866606-fb106053-7ab8-47a1-85d7-d322535db5d2.png" height=400>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
